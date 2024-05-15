@@ -1,1 +1,2 @@
-# DelegatesAndEvents
+# Otus
+ДЗ. Делегаты и события
